@@ -12,7 +12,8 @@ Describe your dream roles, and TalentCraft’s agentic workflow will:
 
 ## 🚀 Demo
 
-![Demo GIF or screenshot here]
+<img width="1439" height="877" alt="image" src="https://github.com/user-attachments/assets/68c6ac6f-406d-4ef9-930e-133a185e6aba" />
+
 
 ---
 
