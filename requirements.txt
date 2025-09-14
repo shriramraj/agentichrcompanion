@@ -1,0 +1,7 @@
+langgraph>=0.2.36
+langchain>=0.2.16
+openai>=1.42.0
+pydantic>=2.8.2
+streamlit>=1.37.0
+structlog>=24.1.0
+python-dotenv>=1.0.1
