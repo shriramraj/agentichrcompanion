@@ -11,12 +11,57 @@
 ---
 
 ### Job Descriptions
+✨ **Product Manager – Role Spellbook** ✨
+💰 Budget: 120k
+⏳ Timeline: 3 months
+🛠️ Must-have skills: React, UX, Leadership
+🌍 Location: Remote
 
+🔮 Your Quest:
+
+Shape the future of our adventure as a Product Manager
+Channel your magic to craft, build, and inspire
+Collaborate with a guild of visionaries
+🪄 What You Bring:
+
+Proven mastery in your craft
+Passion for innovation and impact
+The right skills to turn dreams into reality
 #### Founding Engineer
-- [Drafted JD here]
+✨ **A Frontend Developer – Role Spellbook** ✨
+💰 Budget: 120k
+⏳ Timeline: 3 months
+🛠️ Must-have skills: React, UX, Leadership
+🌍 Location: Remote
+
+🔮 Your Quest:
+
+Shape the future of our adventure as a A Frontend Developer
+Channel your magic to craft, build, and inspire
+Collaborate with a guild of visionaries
+🪄 What You Bring:
+
+Proven mastery in your craft
+Passion for innovation and impact
+The right skills to turn dreams into reality
 
 #### GenAI Intern
-- [Drafted JD here]
+✨ **A Data Alchemist – Role Spellbook** ✨
+💰 Budget: 120k
+⏳ Timeline: 3 months
+🛠️ Must-have skills: React, UX, Leadership
+🌍 Location: Remote
+
+🔮 Your Quest:
+
+Shape the future of our adventure as a A Data Alchemist
+Channel your magic to craft, build, and inspire
+Collaborate with a guild of visionaries
+🪄 What You Bring:
+
+Proven mastery in your craft
+Passion for innovation and impact
+The right skills to turn dreams into reality
 
 ---
 
