@@ -10,65 +10,99 @@ Describe your dream roles, and TalentCraft’s agentic workflow will:
 
 ---
 
-## 🚀 Picture of UI
+## 🚀 Demo
 
-<img width="1440" height="777" alt="image" src="https://github.com/user-attachments/assets/ae063081-be61-4f69-94a5-8c88104eebc9" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/dd894592-1e6d-47e4-b021-55e246ae840f" />
 
+
+1. Enter your hiring needs in plain English.
+2. Answer clarifying questions about each role.
+3. Instantly receive creative job descriptions, checklists, and a JSON hiring blueprint!
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Python 3**
-- **Streamlit** (UI + session memory)
-- **Agentic logic** (multi-step reasoning in Python)
-- **Custom tools** (creative JD & checklist builder)
+- **Python 3:** Core logic and agent reasoning
+- **Streamlit:** Interactive UI, session-based memory, and rapid prototyping
+- **Custom Agent Logic:** Multi-step reasoning, role extraction, and clarification flow
+- **Creative Tools:** Job description and checklist builders (`tools.py`)
+- **Modular Design:** Easily extend with more tools or connect to frameworks like LangChain
 
 ---
 
-## 🌟 How It Works
+## 🌟 Features
 
-1. **Describe your dream team** in plain English (e.g. “We need a Product Manager and a Data Alchemist”)
-2. **TalentCraft asks clarifying questions** for each role (budget, skills, timeline, location)
-3. **Get your hiring blueprint:** 
-   - Creative job descriptions
-   - Step-by-step checklists
-   - JSON output for automation
+- **Conversational Role Input:** Type hiring needs naturally, e.g., “We need a Product Manager and a Data Alchemist.”
+- **Agentic Clarification:** App asks for missing info—budget, skills, timeline, and location.
+- **Creative Output:** 
+  - Engaging, themed job descriptions
+  - Step-by-step “quest” checklists for each role
+  - Downloadable JSON for automation or integration
+- **Playful UI:** Emoji, color, and magical theme for a delightful experience.
+- **Easy Reset:** Start over anytime to craft new hiring blueprints.
 
 ---
 
-## 🧪 Development
+## 📸 Example Usage
 
-To run locally:
+**Input:**  
+“We need a Product Manager, a Frontend Developer, and a Data Alchemist.”
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+**Clarifying Questions:**  
+- What’s the budget for each role?
+- What are the key skills or tools needed?
+- What’s the expected timeline?
+- Is the role remote or onsite?
+
+**Creative Output:**  
+- 🌟 List of roles  
+- 📝 Custom, creative job descriptions  
+- 🧭 Step-by-step hiring checklist  
+- 💾 JSON blueprint
+
+---
+
+## 🧪 Local Development
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/yourusername/talentcraft.git
+   cd talentcraft
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the app:**
+   ```bash
+   streamlit run app.py
+   ```
 
 ---
 
 ## 📦 Extending TalentCraft
 
-- Easily add new tools (e.g., mock email writer, Google search agent)
-- Swap in LangChain, LangGraph, or OpenAI Function Calling for advanced agentic flows
-- Customize the creative output for your team or industry
+- Add new tools (e.g., email writer, Google search agent) via the modular agent interface.
+- Swap in LangChain, LangGraph, or OpenAI Function Calling for advanced agentic workflows.
+- Customize creative output for your company or industry theme.
 
 ---
 
 ## 💡 Why TalentCraft?
 
 Hiring should be fun, fast, and inspiring.  
-TalentCraft reimagines the process as an adventure, helping you build your dream team with AI magic!
+TalentCraft reimagines the process as an adventure, helping you build your dream team with AI-powered magic—from vague ideas to detailed, actionable plans.
 
 ---
 
 ## 📝 License
 
-MIT
+MIT License
 
 ---
 
-*Craft your next great team with TalentCraft!*
-
+*Craft your next great team with TalentCraft! If you enjoy it, leave a ⭐ and share your feedback!*
 
