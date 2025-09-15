@@ -10,7 +10,7 @@ Describe your dream roles, and TalentCraft’s agentic workflow will:
 
 ---
 
-## 🚀 Demo
+## 🚀 Picture of UI
 
 <img width="1440" height="777" alt="image" src="https://github.com/user-attachments/assets/ae063081-be61-4f69-94a5-8c88104eebc9" />
 
